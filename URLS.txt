@@ -68848,3 +68848,19 @@ http://118.193.39.165
 http://118.193.39.165:52202/963852741/mmfile/ads/smallmload.jar
 http://121.201.109.98
 http://45.83.237.13:8088/
+http://154.93.7.99:8090/CDGServer3/images/
+http://154.93.7.99:8090/CDGServer3/images/zh/bin.config
+http://154.93.7.99:8090/CDGServer3/images/zh/mcods.exe
+http://154.93.7.99:8090/CDGServer3/images/zh/mcvsocfg.dll
+http://38.54.119.239:443/jquery-3.3.1.min.js
+http://45.77.37.145:8443
+http://45.148.120.23:91/version.dll
+http://45.148.120.23:91/vmtools.exe
+http://194.180.48.100
+http://2.56.59.215/i.sh
+http://212.192.241.72/lolol.sh.
+http://39.107.61.230/dred
+http://39.165.53.17:8088/iposzz/dred
+http://39.99 .218.78/dred
+http://116.204.84.189/static/home/dred/dred 
+http://corialopolova.com/vHdLtiAzZYCsHszzP118.bin
