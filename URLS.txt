@@ -68864,3 +68864,12 @@ http://39.165.53.17:8088/iposzz/dred
 http://39.99 .218.78/dred
 http://116.204.84.189/static/home/dred/dred 
 http://corialopolova.com/vHdLtiAzZYCsHszzP118.bin
+http://webhook.site/e2831741-d8c8-4971-9464-e52d34f9d611
+https://solitary-dawn-61af.mfeagents.workers.dev/collector/3.0/
+https://www.githubdd.workers.dev/fam/mfe?restart=false
+https://codeberg.org/m4rt1/sh/raw/branch/main/kdfs.py
+https://codeberg.org/m4rt1/sh/raw/branch/main/kill_loop.sh
+https://codeberg.org/m4rt1/sh/raw/branch/main/killer.sh
+https://codeberg.org/m4rt1/sh/raw/branch/main/mi.sh
+https://codeberg.org/m4rt1/sh/raw/branch/main/xm64.tar.gz
+https://api.telegram.org/bot6245402530:AAHl9IafXHFM3j3aFtCpqbe1g-i0q3Ehblc/sendMessage
