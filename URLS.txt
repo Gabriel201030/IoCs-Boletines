@@ -68939,3 +68939,7 @@ http://grupo.supportxmr.com:443/
 http://172.245.16.125/m4.png
 http://172.245.16.125/m2.png
 http://tp-globa.xyz//OdhLca1mLUp/lZ5rZPxWsh/7yZKYQI43S/fP7savDX6c/bfC
+http://45.12.253.107:222/f.txt
+http://45.12.253.107:222/j.jpg
+https://transfer.sh/get/wDK3Q8WOA9/start.py
+https://www.nirsoft.net/utils/webcamimagesave.zip
