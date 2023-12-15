@@ -4924,3 +4924,17 @@ api.yumicash.com
 app.truenaira.co
 apitai.coccash.com
 register.akamaized.ca:6101/strvn
+tech.micrsofts.com
+tech.micrsofts.tech
+anonbin.ir
+anoncrypter.com
+dan.det-ploshadka.com
+mode.encagil.com
+ssl.articella.com
+ssl.e-novauto.com
+ssl.explorecell.com
+yum.luxyries.com
+wlynch.com
+annetterawlings.com
+Dns-supports.online
+Windows.updates.wiki
