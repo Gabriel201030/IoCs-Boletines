@@ -69048,4 +69048,8 @@ http://update.ahnlaib.kro.kr/aha/
 http://update.doumi.kro.kr/aha/
 http://update.onedrive.p-e.kr/aha/
 http://yes24.r-e.kr/aha/
-
+http://46.183.221.59/login
+https://www.wgs.com.pk/js/Qvaloe.vdf
+https://papiculo.net/unmi.sh
+https://papiculo.net/unmiconfig.json
+https://gitlab.com/ajo9082734/Mine/-/raw/main/X
